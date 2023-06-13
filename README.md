@@ -1,4 +1,4 @@
-# code-mixed-tweets
+# RuCS-Tweets Dataset
 These files contain the ids of code-mixed tweets harvested through the Twitter API.
 
 ## Russian-German Code-Mixed Tweets
